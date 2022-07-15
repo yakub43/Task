@@ -1,0 +1,41 @@
+2022-07-14 16:47:50,545 Creating Electronics Object...
+2022-07-14 16:47:50,545 Creating object of Fan...
+2022-07-14 16:47:50,545 This is fan which costs 3000
+2022-07-14 16:47:50,545 fan has 2 years of warranty
+2022-07-14 16:53:07,007 Creating Electronics Object...
+2022-07-14 16:53:07,007 Creating object of Fan...
+2022-07-14 16:53:07,007 This is fan which costs 3000
+2022-07-14 16:53:07,007 fan has 2 years of warranty
+2022-07-14 16:53:07,008 is fan is ceiling fan
+This can have maximum speed of 3000
+2022-07-14 16:53:07,008 Th2022-07-14 16:54:35,636 Creating Electronics Object...
+2022-07-14 16:54:35,636 Creating object of Fan...
+2022-07-14 16:54:35,636 This is fan which costs 3000
+2022-07-14 16:54:35,636 fan has 2 years of warranty
+2022-07-14 16:54:35,638 This can have maximum speed of 3000
+2022-07-14 16:54:35,638 This fan is ceiling fan
+2022-07-14 16:54:35,638 The country of origin is India
+2022-07-14 16:54:35,638 Power consumtion is 250
+2022-07-14 16:54:35,638 This fan is Table Fan
+2022-07-14 19:51:36,580 Creating Electronics Object...
+2022-07-14 19:51:36,612 Creating object of TV
+2022-07-14 19:51:36,612 This is TeleVision which costs 50000
+2022-07-14 19:51:36,612 TeleVision has 1 years of warranty
+2022-07-14 19:51:36,612 Handle with care...
+2022-07-14 19:51:36,612 TV.Resolution() missing 1 required positional argument: 'res'
+2022-07-14 19:52:50,093 Creating Electronics Object...
+2022-07-14 19:52:50,093 Creating object of Fan...
+2022-07-14 19:52:50,093 This is fan which costs 3000
+2022-07-14 19:52:50,093 fan has 2 years of warranty
+2022-07-14 19:52:50,093 This can have maximum speed of 3000
+2022-07-14 19:52:50,093 This fan is ceiling fan
+2022-07-14 19:52:50,093 The country of origin is India
+2022-07-14 19:52:50,093 Power consumtion is 250
+2022-07-14 19:52:50,093 This fan is Table Fan
+2022-07-14 19:53:31,190 Creating Electronics Object...
+2022-07-14 19:53:31,190 Creating object of TV
+2022-07-14 19:53:31,190 This is TeleVision which costs 50000
+2022-07-14 19:53:31,190 TeleVision has 1 years of warranty
+2022-07-14 19:53:31,190 Handle with care...
+2022-07-14 19:53:31,190 The resolution of TV is 4k
+2022-07-14 19:53:31,190 Power consumtion is 240
